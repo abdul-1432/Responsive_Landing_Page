@@ -18,7 +18,7 @@ Follow these steps to get a copy of the project up and running on your local mac
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/responsive-landing-page.git
+   git clone https://github.com/abdul-1432/Responsive_Landing_Page/tree/main
    ```
 
 2. **Open the Project:**
